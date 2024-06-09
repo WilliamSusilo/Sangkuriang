@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147473518773",
+    "project_id": "sangkuriang-f32f9",
+    "storage_bucket": "sangkuriang-f32f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147473518773:android:79e833aeeafc471b36eefc",
+        "android_client_info": {
+          "package_name": "com.example.sangkuriang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf2XzID5OKL330kDShHo0Et-JBIsttTrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
